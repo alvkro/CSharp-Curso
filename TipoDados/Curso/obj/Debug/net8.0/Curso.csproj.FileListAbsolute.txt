@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\bin\Debug\net8.0\Curso.exe
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\bin\Debug\net8.0\Curso.deps.json
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\bin\Debug\net8.0\Curso.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\bin\Debug\net8.0\Curso.dll
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\bin\Debug\net8.0\Curso.pdb
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.dll
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\refint\Curso.dll
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.pdb
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\Curso.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\Curso\Curso\obj\Debug\net8.0\ref\Curso.dll
