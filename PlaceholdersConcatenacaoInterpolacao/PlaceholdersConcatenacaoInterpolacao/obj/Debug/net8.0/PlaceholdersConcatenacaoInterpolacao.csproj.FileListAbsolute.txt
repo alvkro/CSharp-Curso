@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\bin\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.exe
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\bin\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.deps.json
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\bin\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\bin\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.dll
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\bin\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.pdb
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.dll
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\refint\PlaceholdersConcatenacaoInterpolacao.dll
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.pdb
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\PlaceholdersConcatenacaoInterpolacao.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\PlaceholdersConcatenacaoInterpolacao\PlaceholdersConcatenacaoInterpolacao\obj\Debug\net8.0\ref\PlaceholdersConcatenacaoInterpolacao.dll

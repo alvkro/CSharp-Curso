@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.exe
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.deps.json
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.dll
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\bin\Debug\net8.0\SaidaDados.pdb
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.dll
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\refint\SaidaDados.dll
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.pdb
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\SaidaDados.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\SaidaDados\SaidaDados\obj\Debug\net8.0\ref\SaidaDados.dll
