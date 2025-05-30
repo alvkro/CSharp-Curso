@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\bin\Debug\net8.0\Repetir_While.exe
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\bin\Debug\net8.0\Repetir_While.deps.json
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\bin\Debug\net8.0\Repetir_While.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\bin\Debug\net8.0\Repetir_While.dll
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\bin\Debug\net8.0\Repetir_While.pdb
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.dll
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\refint\Repetir_While.dll
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.pdb
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\Repetir_While.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\Repetir_While\Repetir_While\obj\Debug\net8.0\ref\Repetir_While.dll
