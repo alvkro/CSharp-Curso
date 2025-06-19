@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\bin\Debug\net8.0\SemPOO.exe
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\bin\Debug\net8.0\SemPOO.deps.json
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\bin\Debug\net8.0\SemPOO.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\bin\Debug\net8.0\SemPOO.dll
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\bin\Debug\net8.0\SemPOO.pdb
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.dll
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\refint\SemPOO.dll
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.pdb
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\SemPOO.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\SemPOO\SemPOO\obj\Debug\net8.0\ref\SemPOO.dll

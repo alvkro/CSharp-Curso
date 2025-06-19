@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\bin\Debug\net8.0\ComPOO.exe
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\bin\Debug\net8.0\ComPOO.deps.json
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\bin\Debug\net8.0\ComPOO.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\bin\Debug\net8.0\ComPOO.dll
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\bin\Debug\net8.0\ComPOO.pdb
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.dll
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\refint\ComPOO.dll
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.pdb
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ComPOO.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\ComPOO\ComPOO\obj\Debug\net8.0\ref\ComPOO.dll
