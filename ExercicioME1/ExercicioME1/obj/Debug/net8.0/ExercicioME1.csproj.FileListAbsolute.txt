@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\bin\Debug\net8.0\ExercicioME1.exe
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\bin\Debug\net8.0\ExercicioME1.deps.json
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\bin\Debug\net8.0\ExercicioME1.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\bin\Debug\net8.0\ExercicioME1.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\bin\Debug\net8.0\ExercicioME1.pdb
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\refint\ExercicioME1.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.pdb
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ExercicioME1.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\ExercicioME1\ExercicioME1\obj\Debug\net8.0\ref\ExercicioME1.dll
