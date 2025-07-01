@@ -1,0 +1,14 @@
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\Users\alv\Documents\Projetos.C#\ExerciciosPOO\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll
